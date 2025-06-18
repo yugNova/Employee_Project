@@ -1,4 +1,6 @@
-Employ Management System
+===========> Employ Management System <==========
+
+
 🚀 Overview
 Employ Management System is a Java-based console application designed to manage employee records efficiently. This project allows users to store employee details, search for specific employees, and analyze salary distributions—all within an interactive command-line interface.
 🔥 Features
@@ -10,6 +12,8 @@ Employ Management System is a Java-based console application designed to manage 
 - Identify highest and lowest salary holders.
 -  Count employees earning above the average salary.
 - User-friendly CLI interaction with intuitive options.
+
+  
 🛠️ Tech Stack
 - Language: Java
 - Libraries: Core Java (Scanner, Arrays)
